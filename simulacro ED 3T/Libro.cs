@@ -19,17 +19,17 @@ namespace simulacro_ED_3T
             this.disponible = disponible;
         }
 
-        public string Titulo()
+        public string getTitulo()
         {
             return titulo;
         }
 
-        public string Autor()
+        public string getAutor()
         {
             return autor;
         }
 
-        public int Anyo()
+        public int getAnyo()
         {
             return anyo;
         }

@@ -1,0 +1,8 @@
+1.a) los primeros con "-" son atributos de la clase libro, titulo de tipo string, autor de tipo string , anyo de tipo int y disponible de tipo booleano
+los otros con "+" son metodos de la clase, el primero es un constructor, los 3 que siguen son getters, el 4to es un metodo para saber si el libro esta disponible
+y el ultimo es el metodo toString para mostrar la informacion del libro
+
+1.b) disponible es un atributo de tipo booleano, puede ser verdadero o falso.
+
+1.c) el metodo toString es un metodo que devuelve una cadena de texto con la informacion del libro.
+
